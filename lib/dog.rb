@@ -11,7 +11,8 @@ class Dog
   @@all.clear
 end
 
-self.all
-@@all
-end
+  self.all
+  @@all
+  end
+
 end

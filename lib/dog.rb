@@ -8,11 +8,11 @@ class Dog
   end
   
   self.clear_all
-  @@all.clear
-end
+    @@all.clear
+  end
 
   self.all
-  @@all
+    @@all
   end
 
 end

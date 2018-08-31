@@ -8,7 +8,7 @@ class Dog
   end
   
   clear_all
-    @@all.clear
+    @all.clear
   end
 
   

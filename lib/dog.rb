@@ -12,7 +12,7 @@ class Dog
   end
 
   self.all
-    @all
+    
   end
 
 end
